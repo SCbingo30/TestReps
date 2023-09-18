@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@android:color/transparent" /> <!-- 设置填充颜色为透明 -->
-    <stroke
-        android:width="2dp" android:color="#000000" /> <!-- 边框线的宽度 --> <!-- 边框线的颜色 -->
-    <corners android:radius="50dp" /> <!-- 圆角半径 -->
-</shape>
